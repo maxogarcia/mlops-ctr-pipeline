@@ -1,0 +1,5 @@
+outs:
+- md5: 7003fed230a61bdd11ca931954044501
+  size: 241794081
+  hash: md5
+  path: train_sample.txt
