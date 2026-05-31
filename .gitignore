@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Data files
+data/raw/
+data/processed/
+mlartifacts/
+mlflow.db
+reports/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
