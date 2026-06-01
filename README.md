@@ -66,5 +66,3 @@ kubectl apply -f k8s/service.yaml
 ## Tests
 
 pytest tests/ -v
-
-Built as part of a FAANG-prep ML engineering portfolio.
